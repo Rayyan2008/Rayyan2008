@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rayyan2008
-- 👀 I’m interested in Coding And Gaming
+- 👀 I’m interested in Coding, Gaming, Sports and Music
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Data Collection App
 - 📫 How to reach me (rayyanislam83@gmail.com)
